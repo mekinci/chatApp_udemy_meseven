@@ -1,0 +1,17 @@
+{
+  "name": "TheChatFather",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Mehmet Seven <mehmetseven0@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/meseven/thechatfather",
+  "dependencies": {
+    "angular": "^1.7.0"
+  }
+}
